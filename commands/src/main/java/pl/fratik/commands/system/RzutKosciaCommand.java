@@ -30,7 +30,7 @@ public class RzutKosciaCommand extends Command {
     public RzutKosciaCommand() {
         name = "rzutkoscia";
         category = CommandCategory.FUN;
-        aliases = new String[] {"rzutk", "kostka", "rk", "rool", "roll"};
+        aliases = new String[] {"rzutk", "kostka", "rk", "rool", "roll", "frytekgej"};
         allowPermLevelChange = false;
     }
 
